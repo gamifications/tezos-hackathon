@@ -9,4 +9,6 @@
 
 [doc](https://smartpy.io/docs/cli/)
 
-[example by shwetalsoni](https://shwetalsoni.medium.com/?p=d7cdf27476f9)
++ [example by shwetalsoni](https://shwetalsoni.medium.com/?p=d7cdf27476f9)
++ https://styts.com/
++ https://edo2net.tzkt.io/KT1Ej1TcSsYYhnbRKDtoptFdvc3HhFuYfYwX/entrypoints
